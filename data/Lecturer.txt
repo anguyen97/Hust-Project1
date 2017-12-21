@@ -1,0 +1,4 @@
+soict001	soict001	Đặng Hoàng Khang	09/12/1977	Hà Nam	khanhdh@soict.hust.edu.vn	0996894567	GS	Viện Công nghệ thông tin và truyền thông
+soict002	soict002	Vũ Tiểu Thanh	09/10/1964	Hà Nội	thanhvt@soict.hust.edu.vn	0994664567	TS	Viện Công nghệ thông tin và truyền thông
+soict003	soict003	Trương Chí Minh	02/03/1974	Hà Nội	minhtc@soict.hust.edu.vn	0874449996	TS	Viện Công nghệ thông tin và truyền thông
+soict004	soict004	Nguyễn Thành Khánh	01/01/1982	Hà Nội	khanhnt@soict.hust.edu.vn	0963896682	TS	Viện Công nghệ thông tin và truyền thông

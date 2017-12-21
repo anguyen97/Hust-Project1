@@ -1,0 +1,4 @@
+SV20150127	SV20150127	Nguyễn Trung Anh	09/03/1997	Hà Nội	anhngtrung0603@gmail.com	0868603399	Viện Công nghệ thông tin và truyền thông	60
+SV20155102	SV20155102	Dạ Hoa	01/01/1997	Trung Quốc	dahoa@cuutrungthien.china	0868686867	Viện Công nghệ thông tin và truyền thông	60
+SV20150128	SV20150128	Bạch Thiển	01/01/1995	Thanh Khâu	bachthien@thanhkhau.china	01869999666	Viện Công nghệ thông tin và truyền thông	58
+SV20154444	SV20154444	Bùi Duy Khánh	12/03/1997	Hải Dương	khanhbd@gmail.com	0964444555	Viện Công nghệ thông tin và truyền thông	60

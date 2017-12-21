@@ -1,0 +1,3 @@
+admin01	admin01	Nguyễn Việt Trung	01/03/1967	Hà Nội	trungnv@hust.edu.vn	0967778887
+admin02	admin02	Nguyễn Thuận Việt	10/03/1965	Hà Nội	vietnt@hust.edu.vn	0967778888
+admin03	admin03	Nguyễn Thu Trang	06/03/1976	HN	trangnt@hust.edu.vn	0978787876

@@ -1,0 +1,9 @@
+IT3010	Cấu trúc dữ liệu và giải thuật	Viện Công nghệ thông tin và truyền thông	3		4	Tín chỉ
+IT3020	Toán rời rạc	Viện Công nghệ thông tin và truyền thông	3		4	Tín chỉ
+IT3080	Mạng máy tính	Viện Công nghệ thông tin và truyền thông	3		5	Tín chỉ
+IT3110	Linux và phần mềm mã nguồn mở	Viện Công nghệ thông tin và truyền thông	3		5	Tín chỉ
+IT3120	Phân tích thiết kế hệ thống thông tin	Viện Công nghệ thông tin và truyền thông	2	IT3090	6	Tín chỉ
+IT3100	Lập trình hướng đối tượng	Viện Công nghệ thông tin và truyền thông	3	IT3040	5	Tín chỉ
+IT3040	Kỹ thuật lập trình	Viện Công nghệ thông tin và truyền thông	3	IT1110	4	Tín chỉ
+IT1110	Tin học đại cương	Viện Công nghệ thông tin và truyền thông	4		3	Tín chỉ
+PH1130	Vật lý đại cương III	Viện Vật lý kĩ thuật	3		3	Tín chỉ

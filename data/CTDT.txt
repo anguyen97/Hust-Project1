@@ -1,0 +1,19 @@
+Viện Công nghệ thông tin và truyền thông	IT3010	Cấu trúc dữ liệu và giải thuật	Viện Công nghệ thông tin và truyền thông	3		4	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	IT3020	Toán rời rạc	Viện Công nghệ thông tin và truyền thông	3		4	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	IT3080	Mạng máy tính	Viện Công nghệ thông tin và truyền thông	3		5	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	IT3110	Linux và phần mềm mã nguồn mở	Viện Công nghệ thông tin và truyền thông	2		5	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	IT3120	Phân tích thiết kế hệ thống thông tin	Viện Công nghệ thông tin và truyền thông	2	IT3090	6	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	IT3100	Lập trình hướng đối tượng	Viện Công nghệ thông tin và truyền thông	3	IT3040	5	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	IT3040	Kỹ thuật lập trình	Viện Công nghệ thông tin và truyền thông	3	IT1110	4	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	IT1110	Tin học đại cương	Viện Công nghệ thông tin và truyền thông	4		3	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	PH1130	Vật lý đại cương III	Viện Vật lý kĩ thuật	4		3	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	PH1120	Vật lý đại cương II	Viện Vật lý kĩ thuật	4		3	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	EM1170	Pháp luật đại cương	Viện Kinh tế và quản lý	2		1	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	MIL1110	Đường lối quân sự	 	2		1	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	MIL1120	Công tác quốc phòng - an ninh	 	2		1	Niên chế
+Viện Công nghệ thông tin và truyền thông	MIL1130	QS chung và KCT bắn súng AK	 	2		3	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	PE1010	Giáo dục thể chất A	 	1		1	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	PE1020	Giáo dục thể chất B	 	1		1	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	PE1030	Giáo dục thể chất C	 	1		1	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	EM1010	Quản trị học đại cương	Viện Kinh tế và quản lý	2		2	Tín chỉ
+Viện Công nghệ thông tin và truyền thông	IT2000	Nhập môn CNTT và TT	Viện Công nghệ thông tin và truyền thông	3		3	Tín chỉ
